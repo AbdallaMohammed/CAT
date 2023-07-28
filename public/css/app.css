@@ -1,0 +1,14 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 6vw;
+}
+
+p {
+    font-size: 24px;
+}
